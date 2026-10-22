@@ -1,0 +1,3265 @@
+{
+ "work": "順集",
+ "work_id": "zkt-shitagau",
+ "repo": "kumoi-no-fumigura/shitagau-shu",
+ "yomi": "したごうしゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安中期",
+ "author": "源順",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-shitagau-0001",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我宿は道みえぬ迄荒にけり難面き人を待とせしまに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0002",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "○○を厭ひこの本每に立寄てうつ伏染の麻のけさなり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0003",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "西の四條の宮の源中納言のお前にちひさき紅梅を植ゑたりけるを初めて花咲きたる年悅びてをのこども各文字一つを探りてよむにう文字を給はれり哀れ春の始は東よりといふを西の宮よりなりけりとは此の梅の初花を見てなむ驚かれけるこれにより我がおとヾの君やまとことのをのこども引きつらねてさぶらはせ給ひから竹の笛の一よあそびあかさせ給ひかゝるふしをたゞにやはすぐすべきとて此の小木の生ひ出でゝ萬代の老木にならむまでの心ばへをよませ給ふに",
+   "author": "",
+   "text": "。白浪のしらぬ身なれど大淀の仰ごとをば如何背かむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0004",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "co梅津川このくれよりぞ流ての嬉しきせヾはみえむ水底",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0005",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "あめつちの歌四十八首春",
+   "author": "",
+   "text": "00荒さじと打返すらむ小山田の苗代水にぬれて作るあ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0006",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "poめも逝に雪まも靑く成に見今日社野べに若菜摘てめ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0007",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "x0筑波山咲ける櫻の匂をば入て折らねどよそ乍ら見つ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0008",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かちぐさにも綻ぶ花の匂かないづら靑柳ぬひし糸すぢ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0009",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "bf尺仄と明石の濱を見渡せば春の波ともいづる船のほ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0010",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "20年さへ梅の花笠しるきかな雨にぬれじと君や隠しゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0011",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加の寒寒み結びし氷うちとけて今や行らむ春のたのみぞ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0012",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。らにもかれ菊も枯にし秋のゝの萠にける哉さほの山づら",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0013",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "夏",
+   "author": "",
+   "text": "一山も野も夏草繁く成にけりなどかまだしき宿の苅萱",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0014",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニまつ人も見えねば夏も白雪や猶ふりしける越の白山",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0015",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一片戀に身をやきつゝも夏蟲の哀れ佗しき物を思ふか",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0016",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "はつかにも思掛てはゆふ欅賀茂の河波立よらじやは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0017",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "みをつめば物思ふらし郭公なきのみ惑ふ五月雨の間",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0018",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かねを深みまだ順れぬ高浦草人を戀路にえこそ離れね",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0019",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰により新る潮々にも非なくに淺く云なす大幣にはた",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0020",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ヘ庭見ればやほ蓼生て荒に兒辛くしてだに君が訪ぬに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0021",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓竹のよさむに今はなりぬとや假初ぶしに衣片しく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0022",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "cももみ河稻船のみは通はずており上り猶さわぐ茶明",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0023",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一昨日壯行て見ぬ程いつのまに移ろひぬ覽野べの秋萩",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0024",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "二りうたうも名のみ也見秋の野の千種の花の香には劣れり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0025",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ結びきし白露をみる物ならば夜光るてふ玉も何せむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0026",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一緒もかぢも船も通はぬ天河七夕渡るほどやいくひろ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0027",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "木の葉のみ降しく秋は道をなみ渡りぞ佗る山川の底",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0028",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "たけさ見れば移ひにけり女郞花我に任せて秋は早ゆけ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0029",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "冬",
+   "author": "",
+   "text": "たひを寒み氷も解ぬ池水やうへはつれなく深きわか",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0030",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "心とへと云し人は有やと等分て等きつるぞ三輪の山本",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0031",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓とといいやや白波立ぬれて下なる草にかける蜘のい",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0032",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "こぬる每に衣を返す冬夜に夢にだにやは君が見えこぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0033",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ打渡しまつ網代木の最ひをの絕て寄ぬはなぞや心う",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0034",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一へへび弓のはれるにも非で散花は雪かと人にいる人にとへ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0035",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一炭がまのもえこそ渡れ冬寒み獨思のよるはいもねず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0036",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "側包する君がはし鷹下枯の野にな放そ早く手にすゑ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0037",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "思K",
+   "author": "",
+   "text": "夕さればいとゞ作しき大井川篝火なれや消返りもゆ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0038",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "心忘ずも思ゆる哉朝な〓〓ねし黑髪のねくたれのたわ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0039",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "t笹盤のいとだに安く寢ぬ頃は夢にも君に逢見ぬがうさ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0040",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふるる草の葉に置露の玉をさへ物思ふ君は涙とぞ見るx",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0041",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "想をも戀をも潤々に袂する人形なでゝ被へてはおく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0042",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "cm吹風につけても人を思ふには天つ空にも有やとぞ思",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0043",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "「せは淵に五月雨河の成行けばみをさへ海に思社なせ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0044",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓吉野川底の岩波いかでのみ苦しや人を立居戀ふるよ〓",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0045",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "戀",
+   "author": "",
+   "text": "えもいはで戀の亂るゝ心哉いつとや岩に生る松のえ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0046",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "殘なくおつる淚は露けきをいづら結びし草村のしの",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0047",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ええもせかで淚の川の果々や强て戀しき山は筑波え",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0048",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "小小山山東東なくも逢見ぬる鳴く鹿ばかり戀しき物を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0049",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一位泣たむる涙は袖に滿汐の干るまにだにら逢みてしがな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0050",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "獵師師ももあらぬ我こそ逢事を照射の松の燃焦れぬれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0051",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加あても戀臥ても戀るかひもなく影淺ましくみえめ山の井",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0052",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ox照月ももるゝ板まの逢はぬ夜は濡こそ渡れ返す衣手",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0053",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "エけふとくる氷かへりて結らし千年の春にあはむ契を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0054",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ神神月果は紅葉もいかなれや時雨と共に降に降らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0055",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "又くだし給へる判に曰くもみぢ葉の神無月はてぬと思ひてちり過ぐるをば知りにけりいかなれやとおぼめてさだめなしすゑつ方たをやけきさまなれとなよ竹のよヽのふるごとにもなむなりにける佐保山をはせまでによむ",
+   "author": "",
+   "text": "三千鳥なく佐保の河霧さは山の紅葉計りは立な隠しそ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0056",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "西宮源大納言の大饗の日奉る料に四尺屏風新しく調ぜらるゝ料の歌元日",
+   "author": "",
+   "text": "〓昨日まで雪に籠りし三吉野の霞はけふや立て初らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0057",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "子日する所を",
+   "author": "",
+   "text": "五に岩る子日の松も種し有ば千年の春は我におほせよ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0058",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "二月初午稻荷の社に詣づる人に",
+   "author": "",
+   "text": "x稻荷山尾上に立てるすぎ〓〓に行かふ人の絶ぬけふ哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0059",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "あら田うつ所を",
+   "author": "",
+   "text": "ねおりたてば裏迄ひづる袂ゆゑ何打返す荒田なるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0060",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "三月花つみの所",
+   "author": "",
+   "text": "人いいにして花をば摘まじ花の香を袖に摘つる罪も社うれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0061",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "小弓射るところ",
+   "author": "",
+   "text": "〓春深き宿にいればや梓弓ふく風にさへ花のちるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0062",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "四月神祭るところ",
+   "author": "",
+   "text": "林神のます杜の下草風ふけば聞きても皆まつる頃かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0063",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "五月ともしする所",
+   "author": "",
+   "text": "〓郭公待につけてや照射する人も山べに夜を明すらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0064",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ願願も聞ず荒ぶる神だにも今日は夏越と人はしらなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0065",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "棚棚機は空にしるらむ管蟹のいとかくばかり祭る心を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0066",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日の爲をれる蓮の葉を廣み露おく山に我はきに見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0067",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "何何我我はにきつらむ相坂の關あけて社駒も引けれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0068",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "水の面に宿れる月の長開きは並ゐて人も寢ぬ夜なればか",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0069",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "里遠み幕なば野べに泊るべし稻負鳥に宿や借らまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0070",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "月夜にきぬうつところ",
+   "author": "",
+   "text": "風風み鳴く雁音にあはすれば夜の衣は捧まさりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0071",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "十月志賀の山越の人々",
+   "author": "",
+   "text": "名をきけば昔乍らの山なれど時雨る頃は色增りけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0072",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "十一月賀茂の臨時祭に",
+   "author": "",
+   "text": "。一千早振かもの河霧さる中にしるきはすれる衣也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0073",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "十二月佛名おこなふ家",
+   "author": "",
+   "text": "一冬山の雪まにこれる哀木の上にぞくゆる隱す罪なく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0074",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "天德四年三月卅日内裏の歌合のひだりかた仰せにより奉る三首、鶯",
+   "author": "",
+   "text": "一水だにとまらぬ春の谷風にまだうちとけぬ爲のこゑ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0075",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "山吹",
+   "author": "",
+   "text": "三十春深み井手の河波立かへり見てこそ行かめ山吹の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0076",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "戀",
+   "author": "",
+   "text": "たか爲に君を戀らむ戀化て我は我にも非ずなりゆく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0077",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "應和元年七月十一日四歲なる女ごを喪ひて同年八月六日又五つなるをのこ子を裏ひて無常の思ひ物にふれておこる悲びの涙乾かず古萬葉集中に沙彌滿醬がよめる歌の中に世の中を何に譬むといへることをとりてかしらにおきてよめる",
+   "author": "",
+   "text": "世の中を何に譬へむ茜さす朝日まつまの萩の上の露",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0078",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一世の中を何に譬へむ夕露もまたできえぬる朝頼の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0079",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一世の中を何に譬へむ飛鳥川定なき世にたぎつ水の泡",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0080",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一世の中を何に譬へむ轉寢の夢路ばかりに通ふ玉ばこ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0081",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓世の中を何に醫へむふく風は行へもしらぬ峰の白雲",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0082",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "世の中を何に譬へむ水早みかつ崩れゆく岸のふし松",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0083",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓世の中を何に譬へむ秋の野をほのかに照す宵の稻姿",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0084",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓世の中を何に譬へむ濁江のそこにならでも宿る月影",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0085",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一世の中を何に譬へむ草も木も枯行頃の野べの蟲のね",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0086",
+   "pid": "873676",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "世の中を何に譬へむ冬の夜を降と見るまにけぬる泡雪",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0087",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "實のまの空の烟と成にけり天の原からなどか告こぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0088",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かあら玉の年のはたちに足ざりしときはの山の",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0089",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "山さむみ風もさはらぬ藤ごろも二たびたちし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0090",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "成しより物思ふことの葉を繁みけぬべき露の",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0091",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "拾ひつゝ冬ははなかとみえ紛ふ木のま〓〓に",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0092",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "道はなほ身の憂きにのみ有ければこゝも彼處も",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0093",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "葦根はふ下にのみこそ沈みけれ誰こゝのへの",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0094",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "さは水に鳴く鶴のねは久かたの雲のうへまで",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0095",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "隠れなく高くきこえてかひ有といひ流しげむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0096",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我はなほかひも渚にみつ汐の世には比べて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0097",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "住の江の松はむなしく老ぬれとみどりの衣",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0098",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "脫更へむ春はいつとも白なみの波路にいたく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0099",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆき通ひゆもとり敢ず成にける船のわれをし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0100",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "君しあらば哀れといまだ沈めじとあまのつり繩",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0101",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "應和二年五月に東宮の藏人になりて月の內に民部丞にうつりて二度よろこびあり思をのべてくらの命婦にやる",
+   "author": "",
+   "text": "引引人もなしと信つる梓弓今ぞうれしき諸矢しつれば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0102",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "同年十一月前朱雀院の姫宮の御裳者の口の料に御屏風つかうまつるに人々に仰せて奉らせ給ふ歌春柳",
+   "author": "",
+   "text": "〓算を重み堪ぬ計の靑柳は幾めかけたるこがねなる覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0103",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "四月卯花さける所",
+   "author": "",
+   "text": "〓宿の垣ねや春を隔つらむ夏きにけりとみゆる卯花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0104",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "旅人ほとゝぎすをきく",
+   "author": "",
+   "text": "2おおつつなな旅旅人に誰とてか山郭公まづなのるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0105",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "池のほとりに鶴たてり",
+   "author": "",
+   "text": "一池水に難く玉藻の水〓み千代さへしるき鶴の影かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0106",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓の影のみ浮ぶ池水は千世になるべき驗とぞみる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0107",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "里遠み雲路掻分け水莖の跡かとみゆる雁はきにけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0108",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "水上に時雨ふるらし山川の瀨にも紅葉の色深くみゆ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0109",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "雨ふれば草葉の露も增りけり淀の渡りの思ほゆる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0110",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "か時鳥聞かで待夜は明にけりほのに卯花白くみえゆく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0111",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "紅葉ばを柚山川に吹つめば船に時雨の秋は來にけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0112",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "メル運だに生ざらませば水の上に露置けりと爭で知まし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0113",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "康保二年女五男八親王御屏風の歌、春田舍の家",
+   "author": "",
+   "text": "〓道違み人も通はぬ梅の花君には風やわきてつげつる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0114",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "雉のなくをきゝて山櫻を見る",
+   "author": "",
+   "text": "00狩にくる人も社あれ春の野に朝なく雉の近くも有哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0115",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。山櫻木の下風し心あらば香をのみつてよ花な散しそ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0116",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "卯の花さけるに郭公をきく",
+   "author": "",
+   "text": "。卵花のをらまくほしき山里に郭公さハ來つゝ鳴なり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0117",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "賀茂の祭のさるの日みあれひく",
+   "author": "",
+   "text": "30我引むみあれにつけて新る〓となる〓〓鈴も先開ゆ也",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0118",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "人の家に泉のつらにすゞむ",
+   "author": "",
+   "text": "〓〓山の井をかつ掬びつゝ夏衣紐うちとけて凉む頃かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0119",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "九月三十日の日男女野べに出でゝ紅葉を見る",
+   "author": "",
+   "text": "10いかなれば紅葉にもまだ飽なくに飽果のとは今日を云覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0120",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "雨のうちにのこりの菊を見る",
+   "author": "",
+   "text": "加時雨つゝ移ふ見れば菊の色を濕々と降雨にざりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0121",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "人の家に水鳥あり",
+   "author": "",
+   "text": "よ。朝氷とけにけらしな水の面に宿る鳰鳥往來なくなり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0122",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "雪の降る日あづまの方におひつらねたり",
+   "author": "",
+   "text": "xo旅の空くるも苦しな東路の往き來の方もみえぬ白雲",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0123",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "田のなかに水をひくをとこあり",
+   "author": "",
+   "text": "bo遠山田種蒔おける人よりも井堰の水はもり增るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0124",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "人の家の池のほとりの藤の花を",
+   "author": "",
+   "text": "〓液波のかゝれる岸の松は老て若紫にいかでさくらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0125",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "四月神祭る所",
+   "author": "",
+   "text": "一夏山にをれる榊の葉を茂み祭增るはけふにぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0126",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "澤水になくつるのねを等てや萬蒲の草を人の引らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0127",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ夏草に祓へかくれば久方の天つ罪とは露やおくらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0128",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "七夕の心をくみて天の川しづくに袖のひぢぬべき哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0129",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一今日しもあれ逢坂山の山端に先出で來ぬる望月の駒",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0130",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "た今日をみて後こそ知め菊の花開くに違はぬ驗有とは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0131",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓紅葉さへきよる網代のてをかけて立白波は唐錦かも",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0132",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ヘ水上に嵐吹らし山川のせきも紅葉のはやく見ゆれば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0133",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜を寒み風さへ拂ふ宿なれば殘れる君が罪も有じな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0134",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓古の例をひけば八千代まで命をのぶる小松なりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0135",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "右兵衛の督新しくてうずる屏風のれうに正月一",
+   "author": "",
+   "text": "一氷とく風につけつゝ梅の花行く水にさへ匂ふ也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0136",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "二月たび人櫻の花を折らす",
+   "author": "",
+   "text": "三春日すら長ゐしつると妹問ば見せむと折れる花な故しそ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0137",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "三月人の家に女ども柳のもとにあそぶ",
+   "author": "",
+   "text": "枝茂み手にかけそめて靑柳の暇なくても暮すけふ哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0138",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "四月神まつる",
+   "author": "",
+   "text": "夏友きもこそまされ同じくば神の胙とぎてかへらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0139",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "五月五日庭に馬ひかせて見る",
+   "author": "",
+   "text": "我駒の解もみるべく菖蒲草曳の先にぞ今日は縣まし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0140",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "六月はらへするところ",
+   "author": "",
+   "text": "た岩波の立返るせは井堰より夏起の御禊すとや聞らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0141",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "七月七日庭に琴ひく人あり",
+   "author": "",
+   "text": "七擧のねも何かかひなき棚機の飽ぬ別を引しとめねば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0142",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "八月相坂の關に駒迎ふる人あり",
+   "author": "",
+   "text": "ベ武廠野の駒迎にや關山のかひ打越て今日はきつらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0143",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "九月志賀の山越の人々",
+   "author": "",
+   "text": "加山風の風に紅葉のちり行けば謹ぞ先づ色づきにける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0144",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "十月山里に狩する人來る",
+   "author": "",
+   "text": "〓山里に心合する人やあると我はし鷹に代りてぞとふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0145",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "十一月あじろ",
+   "author": "",
+   "text": "一朝氷解る網代のひをなれば寄れど泡にぞ見え渡リける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0146",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "二渡渡海の底の浪殘もけさは有じ潛けばいかに蟹ならす共",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0147",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "右近少將義孝朝臣と加賀椽正通と非うつとてやまと歌十首をつのる正通まけてつぐのふ日せめてきたりてこふにまつをとらす、春のくれ",
+   "author": "",
+   "text": "一心して風もふかなむ花のちる方へや春も行くと尋む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0148",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "秋月",
+   "author": "",
+   "text": "一人方の空さへ澄る秋の月いづれの庭に宿らざるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0149",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "あはぬ戀~",
+   "author": "",
+   "text": "達ずして言のはも社聞えけれ待で消なむ露の悲しき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0150",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "逢ひての戀",
+   "author": "",
+   "text": "我ながらくらべ〓ぬる心哉年さへ狗や戀しかるべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0151",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "宰相中將第一のこの後漢書の光武紀よみをへたる日わたりかゆの要多きに設けて文作る又のあしたに祝の心ある歌奉る",
+   "author": "",
+   "text": "セ老のれば同事社せられけれ君は千世ませ君はちよませ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0152",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "藤大夫誠信の家に五月朔日なるに度申するに曉になりて鳰鳥のなくを聞きて女房よりいひ出す",
+   "author": "",
+   "text": "ハ鳴聲を鳥だにかふる物ならば郭公とぞ聞き明さまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0153",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "これがかへり事",
+   "author": "",
+   "text": "〓君君かばなけ時島黒髪のふゞきになれば我も劣らず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0154",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "ある所に男女方わきてお前の庭の面に薄、〓、らに、しをに、草のかう、女郞花、刈萱、撫子、萩など栽ゑさせ給ひ松蟲鈴蟲を放たせ給ひて人々にやがて其の物どもにつけて歌を奉らせ給ふに己が心々に我も〓〓とあるは山里の垣根にさを鹿のたちよりあるは限なき洲濱の磯づらに蘆たづのおりゐるかたを作りて草をもおほし蟲をもなかせたり仰せ事とて花の有棧過の姿は孰れもいとをかしかめり歌の劣り優りは定めでやはあるべき誰してか定め申さすべきと仰せ給ふに是かれ申す前和泉守源順朝臣なむおほやけには梨壹の五人がうちに定められ宮には思ふ人八人がうちに侍ひし人なりこれを召してこそ定められむに宜しからめと申すによりてかねて其の事とはなくて今夜すぐすまじきまめ事なむあるとて召したり民の司たヾすつかさのおほいすけの君だちこなたかなたに侍ひ給ひ加賀の掾橋の正通によみあげさせ順の朝臣にことわらせ學生爲速して今日のことをかきおかせ給ふ中に爲迄なむ同じ源といふべくもなくちぐさに匂ふ花のあたりにはもぎ木のやうにてまじりにくゝ侍れどもやん",
+   "author": "",
+   "text": "六五五二一一九〇九九孤順換一六〕NO-一六〇四八",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0155",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "ごとなくさぶらふ深山の競よりおひいでたる草のゆかりにて仰せ事の辭びがたさに心もともにつひにける水莖して奉りおく其の歌ども順朝臣の定め申せる判かくなむ",
+   "author": "",
+   "text": "co花の皆紐とく野べに篠薄いかなる露か結びおきけむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0156",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋風になびく夕の花薄ほのかに招くたちとまりなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0157",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此の薄の歌はすけまさが靡く招くといへるわたりらうたけたるやうなり今暫しぞ思ひ合せましこなたしも臨劣るは花薄玉まく葛の眞葛なるべし女郞花そちのきみ",
+   "author": "",
+   "text": "五五の絡をみなへし人の絕ざらば投べき物を秋の白露",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0158",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "くらぶ山麓の野べの女郞花露の下より移しつるかな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0159",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此の女郎花の歌はありたヾの朝臣嵯峨野をうち過ぎて倉部山まで索めありきけむもあぢきなし又やまとことにいひにくき事をこそ添へて我妹子が女郞花てふ可惜名を玉緒にやば結打べき萩兵部君",
+   "author": "",
+   "text": "さを鹿のすだく麓の下萩は露けき〓との難くもある哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0160",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "Po萩萩におく白霧の溜りせば花の形見は思はざらまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0161",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此の萩の歌は誰も〓〓同じさまなれどすだく麓の臣の萩の葉におく白露をといへるわたり珍らしからねど歌めいたり露を淺み下葉も未紅葉ねば紅くも見えず勝負の程",
+   "author": "",
+   "text": "加別行く秋をし知らに鳴鹿は命をさへや留めかぬらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0162",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "teあだし野の叢にのみ交りつる匂は今や人にしられむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0163",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "ねばにやありと知る人少なし又かみにはなもみえ草のかう左衛門君",
+   "author": "",
+   "text": "常夏の露うちはらふ宵ごとに草のかうつる我袂かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0164",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加野べ毎に花をしつめば種々のか移る袖ぞ露けかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0165",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此の草のかうの歌ざまはさいも(左衞門)少し和らぎいはせて侍るめりされどもかみの草はもとの草にて下のかうのみそへたれば人に隠れむ人の身のみ隱れておもてあらはする心ちなむしける千草のか移る袂も有けるをなど横を隱さざりけむしをに日向のかみ",
+   "author": "",
+   "text": "〓高砂の山のを鹿は年をへて同じをにこそ立別しけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0166",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一白雲の懸りしをにも秋霧のたてばや空に山の見ゆらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0167",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此のしをにの歌は是も彼も同じやうなれど秋森のたてばや空に山のみゆらむといへるわたり河霧の麓をこめて立ちぬれど空にぞ秋の山はみえけるといへる古ごとを思ひ合すれば似劣りになむみえけ麓とも峰ともみえず秋霧の立なば何か空に見ゆべき荻すけの君",
+   "author": "",
+   "text": "エそよとなる秋の荻だに微せば何につけてか風を知まし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0168",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "荻の葉の末こす風の音よりぞ秋の深行く事は知るゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0169",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此の〓の歌自も見給へ人してもよみあげさするに荻の葉を末こす風の音高み末こす方は少し優れり撫子:)",
+   "author": "",
+   "text": "〓山がつのかきほの外に朝夕の露にうつるな撫子の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0170",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋 く深深く色移りゆく野べながらなほ常及にみゆる撫子",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0171",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此の撫子の歌はいづれも〓〓いとよく云はせて侍秋も猶とこなつかしき野べ乍ら疑置ける露ぞ優きと見れば萩も少し負けに見ゆかる萱こはひと",
+   "author": "",
+   "text": "短行秋の風に亂るゝ刈萱はしめゆふ露も止らざりけり\"",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0172",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一移し栽ば束の間もなく刈萱をみちよの數を數ふ計ぞ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0173",
+   "pid": "873676",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "kotobagaki": "此の刈萱はたヾのぶが三千代の數などいへるわたも秋の野は刈萱にやは少し春の野べに咲きけむ物の花なむ思ひいでられける蟲のね但馬のかみ",
+   "author": "",
+   "text": "〓〓茅芽の露吹き結ぶ木枯の亂れてもなく蟲の聲かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0174",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "な秋風に露を涙となく蟲のおもふ心をたれにとはまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0175",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "木枯の秋の初風吹ぬるになとか雲居に雁の昔せぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0176",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "又",
+   "author": "",
+   "text": "我宿のわさ田も未だ刈なくにまだき吹ぬる凩の風",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0177",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "などいへるは冬の風を秋の初風といへるにやあら",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0178",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "む其のわたりをこそ定め申されめとあるにつけて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0179",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "なく過の涙になせる露よりも露吹結ぶ風は優れり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0180",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "そも〓〓順梨〓には奈良の都のふる歌よみとき選",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0181",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "び奉りし時には少し吳竹のよごもりて行末を賴む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0182",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "折も侍りき今は草の庵に難波の浦の蘆のけにのみ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0183",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "頒らひて籠り侍ればすべてわれ船のひく人も渚に",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0184",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "捨てられおかれたらむ心ちなむしけるかゝる内に",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0185",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "しらけゆく髪には霜や翁草言の葉も皆枯果にけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0186",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かく侍れば御歌ども定め申せるさまどもいどいひ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0187",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "しらずことやうなり尙お前にて定めさせ給はむや",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0188",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "霜枯の翁草とはなのれども女郎花には尙靡きけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0189",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日の判を見ればなど云ひ戲ぶれて罷り出でなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0190",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "とする程にみすの內をさけば帥のすけ橋のなかき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0191",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "といひし人のむすめ此彼侍ひて夜の更けゆくまゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0192",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "にさやけさまさるべき平のねを調べ合せたるにお",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0193",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "まへの庭の面をみれば月影の朧なるに花色々にう",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0194",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ち亂れたり風の夜寒になもゆくに蟲の聲々もなき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0195",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "あはせたりかゝる事どもを聞き忍びすてゝ今は能",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0196",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "り出でなむとて萩の下露に衣手ぬるゝもしらず起",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0197",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "きゐて大みきたぶなりときこしめして贅殿よりは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0198",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "このしや藏人所の雜色藤原のたかたゞして御くだ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0199",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "物のおろし政所よりは長門の權守源の有忠の朝臣",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0200",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "してさかなに給ふべき物を樣々いろ〓〓に給へり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0201",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "これに皆たまひあきて申すやうまだあかぬ物は御",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0202",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "前の花の色と蟲の聲になむありけるなど申してや",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0203",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "う〓〓罷りいでぬ爲憲一人明くるまでさぶらひて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0204",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "昨日より今日までのことを書きしるして奉りおく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0205",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "天德といふ年始よりて三とせの秋のなかばなる月のしもの十日に今二日おきての事なり",
+   "author": "",
+   "text": "。大つ風仰ぐとも夢ちりたつなこは棚機のおれる衣ぞ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0206",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一移はむ時や見わかむ冬の夜の霜と一つにみゆる白菊",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0207",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一だだも荒たる宿に宿らずばよそにぞみまし望月の影",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0208",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "八月左大臣後院にて宴をなす夜の歌",
+   "author": "",
+   "text": "水〓み宿れる秋の月さへや千世迄君とすまむとすらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0209",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "色深く岸のまに〓〓咲る花淺き波にはをられざり島",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0210",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓ののまで月の照せばや鳴く蟲の音の隠れざるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0211",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "中のみかどの家に南に中務すむ六月梅の枝につきたるを折りて北の家にやる其の詞に云はくこのはかくなむ殘りたるとすなはちいふ心には",
+   "author": "",
+   "text": "〓井堰にも障らず水のもるに逢へば前の梅づも殘らざリ見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0212",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "南のかへし.",
+   "author": "",
+   "text": "泉にも殘らで爭でもりにけむ堰の古杭くひも他ぬと",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0213",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "北かへし",
+   "author": "",
+   "text": "人気にもあらぬ井堰の島近み波の越つゝをると社きけ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0214",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "南かへし",
+   "author": "",
+   "text": "〓打越る波の音せば守ぬよりしまきの風ぞ吹返さま",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0215",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "又其のかへし",
+   "author": "",
+   "text": "∞花を社人や所とも行しか數ならぬみは何にかはせむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0216",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "貞元元年初齋宮の侍從のくりやにおはするあひだに八月二十五日庚申の夜人々參りあひて遊ぶに祝の心を",
+   "author": "",
+   "text": "一神代より色も變らぬ竹川のよゝをは君ぞ數へ渡らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0217",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "同じ年の九月はつる日齋宮野の宮に前栽うゑて又よむ",
+   "author": "",
+   "text": "〓もももななの宮人の栽る花時雨る月にあはずなる共",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0218",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "此の歌のかへし女房いひ出す",
+   "author": "",
+   "text": "ヨああよよはは雨雨に懸る花を植てのべやるべくも非ぬ秋哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0219",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "BE君が爲八千代の秋は無ればやのべやるべくも非ずと云覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0220",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "永觀元年一條藤大納言の家の寢殿の除子に國々の名ある所々を給にかけるにかく歌鏡の山夏",
+   "author": "",
+   "text": "名にしおへに曇らざり鳬鏡山宜こそ夏の影は見えけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0221",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "大井川秋",
+   "author": "",
+   "text": "大大川川そまに秋風寒ければたつ岩波も雪とこそみれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0222",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "天橋立",
+   "author": "",
+   "text": "滿潮ものぼりかねてぞ返るらし波さへ高き天の橋立",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0223",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "やそ島の原",
+   "author": "",
+   "text": "八八十鳥を島每に爭で見てしがな春の至らぬ島は有やと",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0224",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "浮島",
+   "author": "",
+   "text": "〓定なき人の心に比ぶればたゞ浮島は名のみなりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0225",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "高砂",
+   "author": "",
+   "text": "〓打寄する波と尾上の松風と聲高砂やいづれなるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0226",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "大淀",
+   "author": "",
+   "text": "伊勢の益に問ひは聞れど大淀の濱のみるめは著くぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0227",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "しかすがのわたり",
+   "author": "",
+   "text": "行行ふ舟路は有れどしかすがの渡は跡しなくぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0228",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "惡信び己が船々ゆく小船田子の浦迄きぬといはすな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0229",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "か君は早や人並々に出立ちて沈みに沈む我に逢ふなよ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0230",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "神のます山田の原の鶴子は孵るより社千代は數へめ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0231",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "渡渡海浮浮る山をおふよりは動なき世を戴けや急",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0232",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "天元二年正月一條麻大納言石山に詣でゝ七日さぶらひ給ふ家人の詩作り歌よむあまた侍り暇の隙にからの歌作りやまと歌よむ大方かきあつめたるに侍從誠信さはりありてつかうまつらず後に此の歌どもを見て自ら思ひ作りてこれに加へよとすゝめられたるなかに三河の權の守これしげの朝臣の江山此地深といふ詩に客帆有月風千里仙洞無人鶴一雙とつくれること內記爲憲の朝出が渚の松といふことをよめる",
+   "author": "",
+   "text": "〓老にける渚の松の深綠しづめる形をよそにやは見る",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0233",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "o深深松にもあらぬ朝あけの衣さへにぞ沈みそめけむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0234",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "天元二年十月依宜旨奉る御屏風の歌、子口の野べに遊ぶ人",
+   "author": "",
+   "text": "小松引人にはつれし深綠木高き影ぞ千代はまされる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0235",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "梅の花ある家",
+   "author": "",
+   "text": "朝水吹とく風はぬるけれど急ぎて梅は早咲きにけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0236",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "春の野の徴める梅の花さけるに鷹をすゑて人ゆ",
+   "author": "",
+   "text": "秘の香を假にきて折人やあると野べの霞は立隠すらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0237",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "人の家に櫻柳あり",
+   "author": "",
+   "text": "〓はわきてくれども靑柳の絲は櫻に亂れあひにけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0238",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "山吹の花の下水咲ねども皆くちなしと影ぞ見えける河風はさらむ方なみ山吹の散行く水を堰やとめまし",
+   "author": "",
+   "text": "30天河波守にもなりてしが棚機つめに今日はまかせし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0239",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "10名にしおへば鵠の橋渡す也別るゝ袖は猶やぬるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0240",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。運葉も紅葉もしれる水の面に底までみよと照す月影",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0241",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "x。水の面に照月なみを數ふれば今宵ぞ秋の最中也ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0242",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加月明み今宵ぞ數に數へつる常もしか立つ木とはみれ共",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0243",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓紅葉ゆゑ家も忘れて明す哉歸らば色や薄くなるとて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0244",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "X0時雨かと驚れつゝふる紅葉紅き空をも曇るとぞみし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0245",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "池水に紅葉ちり浮ぶ水鳥あり馬にのれる人ゆき",
+   "author": "",
+   "text": "po朝霧をわけゆく雁は何なれや遲れて後に感ふ今日哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0246",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。水の面に浮ぶ紅葉の唐錦をしてふ鳥ぞ立てゐるらし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0247",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "此の歌を奉らするついでに仰せ承る藏人にやる",
+   "author": "",
+   "text": "一程もなき泉計に沈む身はいかなる罪の深きなるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0248",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "天つ風空に吹揭る雲も有ば澤にぞたづは鳴と告なむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-shitagau-0249",
+   "pid": "873676",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "kotobagaki": "天元三年の春能登守になりて下るに一條大納言の家の人々餞する日の歌",
+   "author": "",
+   "text": "一越の海にむれはゐるとも都鳥都の方ぞ戀しかるべき",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
